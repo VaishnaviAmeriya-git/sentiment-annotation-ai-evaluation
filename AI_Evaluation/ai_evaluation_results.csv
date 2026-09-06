@@ -1,0 +1,101 @@
+ID,Text,Sentiment,Confidence,Reason,Difficulty,Reviewed,Final_Label,Correction_Made,QC_Notes,AI_Label,AI_Confidence,Agreement
+T001,The workshop was extremely informative and well organized.,,,,,No,,No,,Positive,1.0,False
+T002,"Honestly, The registration process was confusing and frustrating.",,,,,No,,No,,Negative,0.999,False
+T003,"Overall, The meeting starts at 10 AM tomorrow.",,,,,No,,No,,Positive,0.992,False
+T004,"In my opinion, Great, another assignment due tonight.",,,,,No,,No,,Positive,0.998,False
+T005,The speaker was knowledgeable but the session was too long.,,,,,No,,No,,Negative,0.999,False
+T006,Customer support solved my issue within minutes.,,,,,No,,No,,Negative,0.958,False
+T007,"Honestly, The app crashes every time I open it.",,,,,No,,No,,Negative,0.999,False
+T008,"Overall, The package arrived yesterday.",,,,,No,,No,,Positive,0.99,False
+T009,"In my opinion, The new design looks beautiful.",,,,,No,,No,,Positive,1.0,False
+T010,I expected much better service.,,,,,No,,No,,Negative,0.996,False
+T011,The workshop was extremely informative and well organized. Thank you.,,,,,No,,No,,Positive,1.0,False
+T012,"Honestly, The registration process was confusing and frustrating. Thank you.",,,,,No,,No,,Positive,0.899,False
+T013,"Overall, The meeting starts at 10 AM tomorrow. Thank you.",,,,,No,,No,,Positive,1.0,False
+T014,"In my opinion, Great, another assignment due tonight. Thank you.",,,,,No,,No,,Positive,1.0,False
+T015,The speaker was knowledgeable but the session was too long. Thank you.,,,,,No,,No,,Negative,0.997,False
+T016,Customer support solved my issue within minutes. Thank you.,,,,,No,,No,,Positive,1.0,False
+T017,"Honestly, The app crashes every time I open it. Thank you.",,,,,No,,No,,Positive,0.934,False
+T018,"Overall, The package arrived yesterday. Thank you.",,,,,No,,No,,Positive,1.0,False
+T019,"In my opinion, The new design looks beautiful. Thank you.",,,,,No,,No,,Positive,1.0,False
+T020,I expected much better service. Thank you.,,,,,No,,No,,Positive,0.998,False
+T021,The workshop was extremely informative and well organized. It needs improvement.,,,,,No,,No,,Positive,0.991,False
+T022,"Honestly, The registration process was confusing and frustrating. It needs improvement.",,,,,No,,No,,Negative,0.999,False
+T023,"Overall, The meeting starts at 10 AM tomorrow. It needs improvement.",,,,,No,,No,,Negative,0.998,False
+T024,"In my opinion, Great, another assignment due tonight. It needs improvement.",,,,,No,,No,,Negative,0.995,False
+T025,The speaker was knowledgeable but the session was too long. It needs improvement.,,,,,No,,No,,Negative,0.999,False
+T026,Customer support solved my issue within minutes. It needs improvement.,,,,,No,,No,,Negative,0.999,False
+T027,"Honestly, The app crashes every time I open it. It needs improvement.",,,,,No,,No,,Negative,1.0,False
+T028,"Overall, The package arrived yesterday. It needs improvement.",,,,,No,,No,,Negative,0.999,False
+T029,"In my opinion, The new design looks beautiful. It needs improvement.",,,,,No,,No,,Positive,0.654,False
+T030,I expected much better service. It needs improvement.,,,,,No,,No,,Negative,0.999,False
+T031,The workshop was extremely informative and well organized. I would recommend it.,,,,,No,,No,,Positive,1.0,False
+T032,"Honestly, The registration process was confusing and frustrating. I would recommend it.",,,,,No,,No,,Positive,0.951,False
+T033,"Overall, The meeting starts at 10 AM tomorrow. I would recommend it.",,,,,No,,No,,Positive,1.0,False
+T034,"In my opinion, Great, another assignment due tonight. I would recommend it.",,,,,No,,No,,Positive,1.0,False
+T035,The speaker was knowledgeable but the session was too long. I would recommend it.,,,,,No,,No,,Negative,0.992,False
+T036,Customer support solved my issue within minutes. I would recommend it.,,,,,No,,No,,Positive,0.999,False
+T037,"Honestly, The app crashes every time I open it. I would recommend it.",,,,,No,,No,,Positive,0.92,False
+T038,"Overall, The package arrived yesterday. I would recommend it.",,,,,No,,No,,Positive,1.0,False
+T039,"In my opinion, The new design looks beautiful. I would recommend it.",,,,,No,,No,,Positive,1.0,False
+T040,I expected much better service. I would recommend it.,,,,,No,,No,,Positive,0.999,False
+T041,The workshop was extremely informative and well organized.,,,,,No,,No,,Positive,1.0,False
+T042,"Honestly, The registration process was confusing and frustrating.",,,,,No,,No,,Negative,0.999,False
+T043,"Overall, The meeting starts at 10 AM tomorrow.",,,,,No,,No,,Positive,0.992,False
+T044,"In my opinion, Great, another assignment due tonight.",,,,,No,,No,,Positive,0.998,False
+T045,The speaker was knowledgeable but the session was too long.,,,,,No,,No,,Negative,0.999,False
+T046,Customer support solved my issue within minutes.,,,,,No,,No,,Negative,0.958,False
+T047,"Honestly, The app crashes every time I open it.",,,,,No,,No,,Negative,0.999,False
+T048,"Overall, The package arrived yesterday.",,,,,No,,No,,Positive,0.99,False
+T049,"In my opinion, The new design looks beautiful.",,,,,No,,No,,Positive,1.0,False
+T050,I expected much better service.,,,,,No,,No,,Negative,0.996,False
+T051,The workshop was extremely informative and well organized.,,,,,No,,No,,Positive,1.0,False
+T052,"Honestly, The registration process was confusing and frustrating.",,,,,No,,No,,Negative,0.999,False
+T053,"Overall, The meeting starts at 10 AM tomorrow.",,,,,No,,No,,Positive,0.992,False
+T054,"In my opinion, Great, another assignment due tonight.",,,,,No,,No,,Positive,0.998,False
+T055,The speaker was knowledgeable but the session was too long.,,,,,No,,No,,Negative,0.999,False
+T056,Customer support solved my issue within minutes.,,,,,No,,No,,Negative,0.958,False
+T057,"Honestly, The app crashes every time I open it.",,,,,No,,No,,Negative,0.999,False
+T058,"Overall, The package arrived yesterday.",,,,,No,,No,,Positive,0.99,False
+T059,"In my opinion, The new design looks beautiful.",,,,,No,,No,,Positive,1.0,False
+T060,I expected much better service.,,,,,No,,No,,Negative,0.996,False
+T061,The workshop was extremely informative and well organized. Thank you.,,,,,No,,No,,Positive,1.0,False
+T062,"Honestly, The registration process was confusing and frustrating. Thank you.",,,,,No,,No,,Positive,0.899,False
+T063,"Overall, The meeting starts at 10 AM tomorrow. Thank you.",,,,,No,,No,,Positive,1.0,False
+T064,"In my opinion, Great, another assignment due tonight. Thank you.",,,,,No,,No,,Positive,1.0,False
+T065,The speaker was knowledgeable but the session was too long. Thank you.,,,,,No,,No,,Negative,0.997,False
+T066,Customer support solved my issue within minutes. Thank you.,,,,,No,,No,,Positive,1.0,False
+T067,"Honestly, The app crashes every time I open it. Thank you.",,,,,No,,No,,Positive,0.934,False
+T068,"Overall, The package arrived yesterday. Thank you.",,,,,No,,No,,Positive,1.0,False
+T069,"In my opinion, The new design looks beautiful. Thank you.",,,,,No,,No,,Positive,1.0,False
+T070,I expected much better service. Thank you.,,,,,No,,No,,Positive,0.998,False
+T071,The workshop was extremely informative and well organized. It needs improvement.,,,,,No,,No,,Positive,0.991,False
+T072,"Honestly, The registration process was confusing and frustrating. It needs improvement.",,,,,No,,No,,Negative,0.999,False
+T073,"Overall, The meeting starts at 10 AM tomorrow. It needs improvement.",,,,,No,,No,,Negative,0.998,False
+T074,"In my opinion, Great, another assignment due tonight. It needs improvement.",,,,,No,,No,,Negative,0.995,False
+T075,The speaker was knowledgeable but the session was too long. It needs improvement.,,,,,No,,No,,Negative,0.999,False
+T076,Customer support solved my issue within minutes. It needs improvement.,,,,,No,,No,,Negative,0.999,False
+T077,"Honestly, The app crashes every time I open it. It needs improvement.",,,,,No,,No,,Negative,1.0,False
+T078,"Overall, The package arrived yesterday. It needs improvement.",,,,,No,,No,,Negative,0.999,False
+T079,"In my opinion, The new design looks beautiful. It needs improvement.",,,,,No,,No,,Positive,0.654,False
+T080,I expected much better service. It needs improvement.,,,,,No,,No,,Negative,0.999,False
+T081,The workshop was extremely informative and well organized. I would recommend it.,,,,,No,,No,,Positive,1.0,False
+T082,"Honestly, The registration process was confusing and frustrating. I would recommend it.",,,,,No,,No,,Positive,0.951,False
+T083,"Overall, The meeting starts at 10 AM tomorrow. I would recommend it.",,,,,No,,No,,Positive,1.0,False
+T084,"In my opinion, Great, another assignment due tonight. I would recommend it.",,,,,No,,No,,Positive,1.0,False
+T085,The speaker was knowledgeable but the session was too long. I would recommend it.,,,,,No,,No,,Negative,0.992,False
+T086,Customer support solved my issue within minutes. I would recommend it.,,,,,No,,No,,Positive,0.999,False
+T087,"Honestly, The app crashes every time I open it. I would recommend it.",,,,,No,,No,,Positive,0.92,False
+T088,"Overall, The package arrived yesterday. I would recommend it.",,,,,No,,No,,Positive,1.0,False
+T089,"In my opinion, The new design looks beautiful. I would recommend it.",,,,,No,,No,,Positive,1.0,False
+T090,I expected much better service. I would recommend it.,,,,,No,,No,,Positive,0.999,False
+T091,The workshop was extremely informative and well organized.,,,,,No,,No,,Positive,1.0,False
+T092,"Honestly, The registration process was confusing and frustrating.",,,,,No,,No,,Negative,0.999,False
+T093,"Overall, The meeting starts at 10 AM tomorrow.",,,,,No,,No,,Positive,0.992,False
+T094,"In my opinion, Great, another assignment due tonight.",,,,,No,,No,,Positive,0.998,False
+T095,The speaker was knowledgeable but the session was too long.,,,,,No,,No,,Negative,0.999,False
+T096,Customer support solved my issue within minutes.,,,,,No,,No,,Negative,0.958,False
+T097,"Honestly, The app crashes every time I open it.",,,,,No,,No,,Negative,0.999,False
+T098,"Overall, The package arrived yesterday.",,,,,No,,No,,Positive,0.99,False
+T099,"In my opinion, The new design looks beautiful.",,,,,No,,No,,Positive,1.0,False
+T100,I expected much better service.,,,,,No,,No,,Negative,0.996,False

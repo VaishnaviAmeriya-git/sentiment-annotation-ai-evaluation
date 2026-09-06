@@ -1,0 +1,9 @@
+ID,Original Label,Final Label,Corrected,QC Notes
+T004,Neutral,Negative,Yes,Sarcastic expression identified
+T005,Positive,Mixed,Yes,Contains praise and criticism
+T014,Mixed,Negative,Yes,Overall sentiment is negative
+T026,Neutral,Positive,Yes,Appreciation detected
+T037,Negative,Negative,No,Annotation already consistent
+T052,Positive,Positive,No,No changes required
+T071,Mixed,Mixed,No,Reasoning acceptable
+T089,Neutral,Neutral,No,Pure factual statement
